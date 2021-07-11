@@ -1,4 +1,7 @@
 
+##  Passos 
+## Entre na pasta do projeto e rode npm install ou yarn install para instalar as dependências do projeto
+## E apos rode os scripts disponíveis para iniciar a aplicação
 
 ##  Scripts Disponíveis
 
