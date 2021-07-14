@@ -105,7 +105,7 @@
         if(_divida.success){
             setCliente(_divida.result);
         }else{
-            handleErrorMessage(err);
+            handleErrorMessage(_divida.result);
             return false;
         }
       }catch(err){
